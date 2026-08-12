@@ -20,7 +20,7 @@ O estudo analisa as contradições entre as exigências teórico-pedagógicas do
 
 ```text
 ├── data/
-│   ├── base_rs_estadual_ept_2025.csv            # Microdados filtrados e agregados para escolas de EPT
+│   ├── base_rs_estadual_ept_2025.csv             # Microdados filtrados e agregados para escolas de EPT
 │   ├── base_rs_estadual_completa_2025.csv        # Universo completo da rede estadual gaúcha em 2025
 │   ├── distribuicao_faixas_precarizacao_2025.csv # Percentual de escolas por faixa de temporários
 │   └── resumo_geral_2025.csv                     # Principais indicadores estatísticos compilados
@@ -72,8 +72,8 @@ Para reproduzir os resultados estatísticos e os gráficos do estudo em seu ambi
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/lucianomarcospaes/dados-tcc-ept.git
-cd dados-tcc-ept
+git clone [https://github.com/lucianomarcospaes/dados-tcc-ept.gi](https://github.com/Luciano-Marcos-Paes/precarizacao-docente-ept-rs
+cd precarizacao-docente-ept-rs
 ```
 
 ### 2. Instalar Pacotes Requeridos
